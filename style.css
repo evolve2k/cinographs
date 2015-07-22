@@ -1,0 +1,14 @@
+body {
+	background-color: black;
+}
+
+.headline {
+	height: 800px;
+	display: block;
+	margin: 0 auto;
+}
+
+img {
+	height: 400px;
+	display: inline;
+}
